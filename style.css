@@ -127,6 +127,7 @@ html::-webkit-scrollbar-thumb {
     align-items: center;
     justify-content: flex-start;
     justify-content: space-between;
+    overflow: hidden
 }
 
 #navbar {
